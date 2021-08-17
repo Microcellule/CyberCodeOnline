@@ -190,7 +190,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Hub Central]\r\n        L'une des villes les plus actives du continent, vous pourrez trouver ici toute sortes de personnes venant de tout le globe.",
+ 	 	 	 	"trans": "[Hub Central]\r\n        L'une des villes les plus actives du continent, vous pourrez trouver ici toute sortes de personnes venant de tout les horizons.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -602,7 +602,7 @@
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable de disperser des milliers de nano machines avancé pour soigner les joueurs proches",
+ 	 	 	 	"trans": "capable de disperser des milliers de nano machines perfectionnées pour soigner les joueurs proches",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -612,7 +612,7 @@
  	 	 	 	"eng": "High Quality Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable de disperser des milliers de nano machines de haute qualité pour soigner les joueurs proches",
+ 	 	 	 	"trans": "capable de disperser des milliers de nano machines de hautes qualités pour soigner les joueurs proches",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -622,7 +622,7 @@
  	 	 	 	"eng": "Rare Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable de disperser des milliers de nano machines rare pour soigner les joueurs proches",
+ 	 	 	 	"trans": "capable de disperser des milliers de nano machines rares pour soigner les joueurs proches",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -632,7 +632,7 @@
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Morceaux et pièces faisant partie de techno médical, permettant de fabriquer des objets de soin... si vous comprenez comment",
+ 	 	 	 	"trans": "Morceaux et pièces faisant partie de techno médical, permettant de fabriquer des objets de soin... si vous comprenez comment faire",
  	 	 	 	"eng": "Bits and pieces of used medical tech, this can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
@@ -1050,7 +1050,7 @@
  	 	 	 	"eng": "Chat exploit transmitter [Love]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vous avez un peu d'amour et vous obtenez un peu d'amour! tout le monde obtient de l'amour! \r\n         Quand on a utilisé tout le monde l'aime \r\n         Cela effets tous les joueurs exercent 10 minutes",
+ 	 	 	 	"trans": "Vous avez un peu d'amour et vous obtenez un peu d'amour! Tout le monde obtient de l'amour! \r\n         Quand on a utilisé tout le monde l'aime \r\n         Cela effets tous les joueurs exercent 10 minutes",
  	 	 	 	"eng": "You get some love, and you get some love! everyone gets some love!.\r\n        When used everyone loves each other\r\n        This effects all players fow 10 minutes"
  	 	 	}
  	 	},
@@ -2830,7 +2830,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Félicitation, vous avez monter de niveau votre ${levelName}!",
+ 	 	 	 	"trans": "Félicitation, vous avez monté de niveau votre ${levelName}!",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
@@ -2853,7 +2853,7 @@
  	 	 	},
  	 	 	"badReview": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Je suis tellement désolé, s'il vous plaît laissez-moi savoir où je peux améliorer",
+ 	 	 	 	 	"trans": "Je suis tellement désolé, s'il vous plaît faites moi savoir où je peux améliorer",
  	 	 	 	 	"eng": "I am so sorry, please let me know where I can improve"
  	 	 	 	}
  	 	 	},
@@ -2863,7 +2863,7 @@
  	 	 	 	 	"eng": "Wow thanks so much! im honored, please make it official by leaving them on our store page :)"
  	 	 	 	},
  	 	 	 	"title2": {
- 	 	 	 	 	"trans": "Votre bonne critique va m'aider très et apporter plus de joueurs dans notre communauté!",
+ 	 	 	 	 	"trans": "Votre bonne critique va beaucoup m'aider et apporter plus de joueurs dans notre communauté!",
  	 	 	 	 	"eng": "Your good review is going to help me very and bring more players into our community!"
  	 	 	 	}
  	 	 	},
